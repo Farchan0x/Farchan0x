@@ -36,12 +36,3 @@
 </p>
 
 ---
-
-#### Play my Snake Game
-<p align="center">
-  <a href="https://farchan0x.github.io/snake" target="_blank">
-    <img src="https://img.shields.io/badge/Play-Snake%20Game-brightgreen?style=flat&logo=gamepad" />
-  </a>
-</p>
-
----
