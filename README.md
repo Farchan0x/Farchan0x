@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Farhan 👋</h1>
-<h3 align="center">💻 A Passionate Student & Future Developer from Indonesia 🇮🇩</h3>
+<h3 align="center"> A Passionate Student & Future Developer from Indonesia 🇮🇩</h3>
 
 ---
 
@@ -33,6 +33,15 @@
 ### My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Kenny's GitHub stats" />
+</p>
+
+---
+
+#### Play my Snake Game
+<p align="center">
+  <a href="https://farchan0x.github.io/snake" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Snake%20Game-brightgreen?style=flat&logo=gamepad" />
+  </a>
 </p>
 
 ---
