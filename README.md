@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍🎓 About Me
+###  About Me
 - 🎓 I’m currently a **student** learning about **software development**, **web design**, and **technology innovation**.  
 - 💡 Always curious about how things work — from code to circuits.  
 - 🚀 My goal: To become a **full-stack developer** and contribute to open-source projects.  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 <p align="left">
   <a href="https://www.instagram.com/mochamad_farchan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
@@ -23,14 +23,14 @@
 
 ---
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,github,discord" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Kenny's GitHub stats" />
 </p>
