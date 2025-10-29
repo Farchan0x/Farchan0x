@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Farhan 👋</h1>
+<h3 align="center">💻 A Passionate Student & Future Developer from Indonesia 🇮🇩</h3>
 
-<!--
-**Farchan0x/Farchan0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+- 🎓 I’m currently a **student** learning about **software development**, **web design**, and **technology innovation**.  
+- 💡 Always curious about how things work — from code to circuits.  
+- 🚀 My goal: To become a **full-stack developer** and contribute to open-source projects.  
+- 📚 Currently exploring: **Html**, **Css**, **JavaScript** and **Figma**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.instagram.com/mochamad_farchan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Farchan0x" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,github,discord" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Kenny's GitHub stats" />
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
