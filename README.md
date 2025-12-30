@@ -38,4 +38,3 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,discord" />
 </div>
 <br/>
-/>
