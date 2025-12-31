@@ -41,14 +41,12 @@
 
 <div align="center">
 
-  
+  ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
 </div>
 
-
-![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
 
 
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=20&color=10)](https://visitcount.itsvg.in)  
 </div>
