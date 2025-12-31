@@ -1,9 +1,12 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi , I'm Farchan </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Farchan" />
+</p>
+
 <h3 align="center"> A Passionate Student & Future Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-<h2 align="center"> 👤 About Me  👤</h2>
+<h2 align="center"> 👤 About Me 👤 </h2>
 <div aling="center">
   <p>🎓 I’m currently a student learning about software development, web design, and technology innovation.</p>
   <p>💡 Always curious about how things work — from code to circuits.</p>
@@ -31,7 +34,7 @@
   </a>
 </div>
 
-<h2 align="center"> ⚒️ Tools & Technologies ⚒️</h2>
+<h2 align="center"> ⚒️ Tools & Technologies ⚒️ </h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,git,c,cs" /><br>
@@ -39,6 +42,8 @@
 </div>
 <br/>
 
+
+<h2 align="center"> 🐍 My Contributions 🐍 </h2>
 <div align="center">
 
   ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
