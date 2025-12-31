@@ -43,10 +43,3 @@
 
   ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
 </div>
-
-
-
-<div align="center">
-
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=20&color=10)](https://visitcount.itsvg.in)  
-</div>
