@@ -38,3 +38,17 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,discord" />
 </div>
 <br/>
+
+<div align="center">
+
+  
+</div>
+
+
+![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
+
+
+<div align="center">
+
+  [!][](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)  
+</div>
