@@ -43,7 +43,7 @@
 <h2 align="center"> ⚒️ Tools & Technologies ⚒️ </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel,php" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,discord" />
 </div>
 <br/>
@@ -52,8 +52,8 @@
 <h2 align="center"> 🐍 My Contributions 🐍 </h2>
 <div align="center">
   
-  ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/pacman-contribution-graph.svg)
-  
+  ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/pacman-contribution-graph-dark.svg)
+
 </div>
 
 
