@@ -48,6 +48,13 @@
 </div>
 <br/>
 
+<h2 align="center"> Github Stats </h2>
+<div align="center">
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?Farchan0x=Pranesh-2005&layout=compact)
+
+</div>
+
 
 <h2 align="center"> 🐍 My Contributions 🐍 </h2>
 <div align="center">
