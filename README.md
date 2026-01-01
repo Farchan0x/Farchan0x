@@ -52,8 +52,8 @@
 <h2 align="center"> 🐍 My Contributions 🐍 </h2>
 <div align="center">
   
-  ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
   ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/pacman-contribution-graph.svg)
+  
 </div>
 
 
