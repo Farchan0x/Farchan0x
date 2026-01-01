@@ -49,10 +49,17 @@
 <br/>
 
 <h2 align="center"> 📊 Github Stats 📊 </h2>
-<div align="left">
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farchan0x&layout=compact)
+<div align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farchan0x&layout=compact&theme=dark"
+    height="165"
+  />
 </div>
+
 
 
 <h2 align="center"> 🐍 My Contributions 🐍 </h2>
