@@ -43,8 +43,8 @@
 <h2 align="center"> ⚒️ Tools & Technologies ⚒️ </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,git,c,cs" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,discord" />
 </div>
 <br/>
 
@@ -53,7 +53,10 @@
 <div align="center">
   
   ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Farchan0x/Farchan0x/blob/output/pacman-contribution-graph.svg)
 </div>
+
+
 
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=Farchan0x&label=Profile%20views&color=0e75b6&style=flat" alt="Frachan0x" /> </p>
