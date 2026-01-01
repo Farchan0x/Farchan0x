@@ -49,7 +49,7 @@
 <br/>
 
 <h2 align="center"> 📊 Github Stats 📊 </h2>
-<div align="center">
+<div align="left">
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark)
 
