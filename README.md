@@ -51,9 +51,8 @@
 <h2 align="center"> Github Stats </h2>
 <div align="center">
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&showicon=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Farchan0x&layout=compact)
 
 </div>
 
