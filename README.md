@@ -45,16 +45,25 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs, /><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel,php,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,discord" />
 </div>
 <br/>
 
-<h2 align="center"> Github Stats </h2>
+<h2 align="center">📊 Github Stats 📊</h2>
+
 <div align="center">
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark)
-
-
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Farchan0x&layout=compact&theme=dark&cache_seconds=1800"
+    height="165"
+  />
 </div>
+
+
 
 
 <h2 align="center"> 🐍 My Contributions 🐍 </h2>
