@@ -43,7 +43,7 @@
 <h2 align="center"> ⚒️ Tools & Technologies ⚒️ </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel,php" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,laravel,php,mysql,xampp" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,discord" />
 </div>
 <br/>
