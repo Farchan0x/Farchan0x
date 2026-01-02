@@ -34,10 +34,6 @@
     <a href="https://www.instagram.com/mochamad_farchan" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
   </a>
-  </a>
-    <a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
-  </a>
 </div>
 
 <h2 align="center"> ⚒️ Tools & Technologies ⚒️ </h2>
