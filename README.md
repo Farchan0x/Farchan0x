@@ -44,7 +44,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitdiscord" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,discord" />
 </div>
 <br/>
 
