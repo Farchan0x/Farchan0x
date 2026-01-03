@@ -47,11 +47,12 @@
 <h2 align="center">📊 Github Stats 📊</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark"
-    height="165"
-  />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farchan0x&layout=compact&theme=dark)
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farchan0x&show_icons=true&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farchan0x&layout=compact&theme=dark" height="165" />
+</p>
 
 </div>
 
